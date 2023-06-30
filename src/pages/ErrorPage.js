@@ -6,7 +6,7 @@ const ErrorPage = () => {
     <Wrapper className="page-100">
       <section>
         <h1>404</h1>
-        <h3>Sorry, the page you are trying to access annot be found.</h3>
+        <h3>Sorry, the page you are trying to access cannot be found.</h3>
         <Link to="/" className="btn">go to homepage</Link>
       </section>
     </Wrapper>
